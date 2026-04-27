@@ -21,7 +21,7 @@ restart Positron when the computer is stuck>
 
 ### Merge Conflict: Owner Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+I am editing this and committing, but will not push or pull
 
 ### Merge Conflict: Collaborator Resolves
 
