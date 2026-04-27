@@ -6,9 +6,11 @@ format: html
 
 ## Git Collaboration Tips
 
-### Tips: <owner's name here>
+### Tips: <owner's Shaela Noble>
 
-<Owner adds their tips here!>
+Eat yummy snacks
+Light candles
+Put on relaxing music
 
 ### Tips: <collaborator's Hannah Chaney>
 
