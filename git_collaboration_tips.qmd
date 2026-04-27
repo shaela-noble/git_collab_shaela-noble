@@ -30,7 +30,7 @@ I am editing this and committing, but will not push or pull
 
 ### Merge Conflict: Collaborator Resolves
 
-<Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
+I am making a new error :)
 
 ## Summary: How to Avoid Merge Conflicts
 
