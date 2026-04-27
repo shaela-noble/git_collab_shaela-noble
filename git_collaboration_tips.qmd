@@ -29,7 +29,7 @@ I am editing this and committing, but will not push or pull
 
 
 ### Merge Conflict: Collaborator Resolves
-
+zzzzzzzzzzzzzzzzzzzzz
 <Owner and Collaborator edit the same line here to create a conflict! - OWNER commits-pulls-pushes first>
 
 ## Summary: How to Avoid Merge Conflicts
