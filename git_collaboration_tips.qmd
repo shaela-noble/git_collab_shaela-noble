@@ -12,7 +12,8 @@ format: html
 
 ### Tips: <collaborator's Hannah Chaney>
 
-<Collaborator adds their tips here!>
+<Collaborator Don't forget to add a message to the commit
+restart Positron when the computer is stuck>
 
 ## How to Create a Merge Conflict 
 
