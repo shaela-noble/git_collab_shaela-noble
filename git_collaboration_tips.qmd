@@ -20,8 +20,13 @@ restart Positron when the computer is stuck>
 ## How to Create a Merge Conflict 
 
 ### Merge Conflict: Owner Resolves
+
 don't forget to light your candle!!!!
 <Owner and Collaborator edit the same line here to create a conflict! - COLLABORATOR commits-pulls-pushes first>
+
+
+I am editing this and committing, but will not push or pull
+
 
 ### Merge Conflict: Collaborator Resolves
 
